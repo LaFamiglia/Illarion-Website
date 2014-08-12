@@ -19,46 +19,30 @@
     <span class="done">Complete</span>
 </p>
 
-<h2>Server</h2>
+<h2>Milestone I: Stable state for reviewers and promotion - This is a meta task for reaching a milestone, characterised by a stable state of the game that can be presented to reviewers, external platforms and other third parties. The associated tasks are merely bug fixes and issues on how the game appears to external users during the first hour of game play and the way to the first log in. Hence, the whole path from finding the game, setting it up and starting it is included. <a href="http://illarion.org/mantis/view.php?id=9659">Mantis task #9659</a></h2>
 <ul>
-    <li><span class="inProgress">Removal of Luabind</span></li>
-    <li><span class="inProgress">Test Suite</span></li>
-    <li><span class="inProgress">Efficient data structures for character search</span></li>
-    <li><span class="planned">Notification about available quests</span></li>
-    <li><span class="planned">New login procedure</span></li>
-    <li><span class="planned">Character creation</span></li>
-    <li><span class="planned">Provide Debian package (.deb)</span></li>
+
 </ul>
 
-<h2>Client</h2>
+<h2>">Milestone II: New items and improved crafting - This is a meta task for reaching a milestone, characterised by a more convenient and balanced state of items and their production. <a href="http://illarion.org/mantis/view.php?id=9822">Mantis task #9822</a></h2>
 <ul>
-    <li><span class="inProgress">Session management</span></li>
-    <li><span class="planned">Display of available quests</span></li>
-    <li><span class="planned">New login procedure</span></li>
-    <li><span class="planned">Character creation</span></li>
+ 
 </ul>
 
-<h2>Content</h2>
-
-<h3>Systems</h3>
+<h2>Milestone III: Content, quests and dungeons - This is a meta task for reaching a milestone, characterised by a satisfying number of quests and dungeons in the game that are equipped with content. <a href="http://illarion.org/mantis/view.php?id=9824">Mantis task #9824</a></h2>
 <ul>
-    <li><span class="inProgress">Balancing crafting</span></li>
-    <li><span class="planned">Magic</span></li>
+    <li><span class="inProgress">Update to the Drow Dungeon - Complete makeover with new maps, quest, and content.</span></li>
+    <li><span class="inProgress">New Dungeon in Galmair region.</span></li>	
+    <li><span class="planned">Update to Gorgophone's Nest Dungeon Quest.</span></li>
+    <li><span class="planned">New Dungeon in Cadomyr region.</span></li>	
 </ul>
 
-<h3>NPCs</h3>
+<h2>Milestone IV: Magic - This is a meta task for reaching a milestone. Explanation is coming soon, however, this will be the foundation for which all player-based magic springs forth.  <a href="http://illarion.org/mantis/view.php?id=9823">Mantis task #9823</a></h2>
 <ul>
-    <li><span class="inProgress">Dynamic guards</span>: <a href="http://illarion.org/community/forums/memberlist.php?mode=viewprofile&u=7216">pharse</a></li>
+
 </ul>
 
-<h3>Other</h3>
+<h2>Milestone V: Sandboxing and immersion - This is a meta task for reaching a milestone. Explanation is coming soon, however, tasks will include music, fighting, and weather, just to name a few in a broad spectrum. <a href="http://illarion.org/mantis/view.php?id=9825">Mantis task #9825</a></h2>
 <ul>
-    <li><span class="inProgress">Quests</span></li>
-    <li><span class="inProgress">Quest logs</span></li>
-</ul>
 
-<h2>Homepage</h2>
-<ul>
-    <li><span class="inProgress">GM Tool</span></li>
-    <li><span class="inProgress">Migration to CMS Drupal</span></li>
 </ul>
