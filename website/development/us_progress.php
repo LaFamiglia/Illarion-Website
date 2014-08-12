@@ -21,7 +21,8 @@
 
 <h2>Milestone I: Stable state for reviewers and promotion - This is a meta task for reaching a milestone, characterised by a stable state of the game that can be presented to reviewers, external platforms and other third parties. The associated tasks are merely bug fixes and issues on how the game appears to external users during the first hour of game play and the way to the first log in. Hence, the whole path from finding the game, setting it up and starting it is included. <a href="http://illarion.org/mantis/view.php?id=9659">Mantis task #9659</a></h2>
 <ul>
-
+    <li><span class="inProgress">Improve walking and running.</span></li>
+    <li><span class="inProgress">Improvement to the homepage, including all facets.</span></li>
 </ul>
 
 <h2>">Milestone II: New items and improved crafting - This is a meta task for reaching a milestone, characterised by a more convenient and balanced state of items and their production. <a href="http://illarion.org/mantis/view.php?id=9822">Mantis task #9822</a></h2>
